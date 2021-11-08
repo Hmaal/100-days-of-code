@@ -47,7 +47,7 @@ Somethings to come:
 
 -----
 
-### Day 6: November 3rd, 2021
+### Day 6: November 6th, 2021
 #####
 
 **Today's Progress**: Spent most of today getting my project environment setup on a different computer. Once I got everything resolved, had to figure out where I left off and was able to clean up the GET request a little. More progress to make.
@@ -55,3 +55,24 @@ Somethings to come:
 **Thoughts:** I don't even know where to begin. Its been a long past 3 days. Due to some life events was unable to make any progress, though I was some level determined. When I was able to make some progress, I didn't know where to begin considering that I'm on a different computer and the idea of pullin my code down onto this computer would require me to reset up my environment form scratch. This thought put me off for a day and I knew I had to make progress some how, so I bit the bullet and spent hours getting things back into working order.
 
 Obviously, I've skipped a few days and will have to make those up, with interest, so I'll think on that, but I'm thinking an extra day of work (2 days / day skipped). I have time, since I'm still early on, but I have plenty of other goals that I've got to reach, so will work on those. Forgive me all for the skipped days.
+
+-----
+
+### Day 7: November 7th, 2021
+#####
+
+**Today's Progress**: Made some progress on tying the database to the code a bit. Not quite as much as I would have liked but its progress. Also did a first pass on a few files for cleaning up the code, comments, and structure that is there.
+
+**Thoughts:** Getting back into the grove of things has been good, but below are some general thoughts I've had for a little while but I've neglected to properly document.
+
+"More hard work than exepected, naturally"
+
+I think I severly underestimated the amount of work necessary to build this. Its not overly complicated or anything but my skills aren't where I thought they were, factoring in a database and having to build and test locally with it has added an additional layer of challenge, working with platform specific nuances has defintely been challenging to wrap my head around, etc. I know I generally underestimate the amount of work but I missed the mark more than usual.
+
+"Unweildy code base, getting worse and worse"
+
+As I've started jumping in each day to make progress, my focus is on getting right to it and writing something to make my time productive. That being said, it has lead down a path of constantly adding onto the existing code base, switching what I'm working on based on hurdles, and not coming back to clean up where I left from. All this to say, its a bit of a mess with the comments and unused code and existing code from the template I was starting from. The hope/plan is that over time, it gets cleaned over time as I work through things.
+
+"Love comments but making it more difficult"
+
+I actually really enjoy using comments, they help me keep organized and help me remember certain things, but thats not to say they don't have their drawbacks, one of them being that all the comments being left all over the place are making it difficult to figure out where I should start working next. I put TODOs in my comments and they are everywhere. I think I need to work better on removing them when they have been handled and tighten up the content of them as I'm writing them. Again, this is another area of improvement as time goes on, so looking forward to how these things improve.
