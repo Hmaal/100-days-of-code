@@ -76,3 +76,12 @@ As I've started jumping in each day to make progress, my focus is on getting rig
 "Love comments but making it more difficult"
 
 I actually really enjoy using comments, they help me keep organized and help me remember certain things, but thats not to say they don't have their drawbacks, one of them being that all the comments being left all over the place are making it difficult to figure out where I should start working next. I put TODOs in my comments and they are everywhere. I think I need to work better on removing them when they have been handled and tighten up the content of them as I'm writing them. Again, this is another area of improvement as time goes on, so looking forward to how these things improve.
+
+-----
+
+### Day 8: November 8th, 2021
+#####
+
+**Today's Progress**: Decided to attempt and tackle the helixToken issue that I have been working around the past few days. Was able to get past the assumed hurdle of having to upload the files or intentionally connect to the developer rig. Was able to test out the solution of using the Twitch Front End API with the helixToken JWT. Will have to pivot after learning that said solution won't work.
+
+**Thoughts:** Today was a good day. Wasn't too stressed or thinking too actively about working on it and it kinda felt natural. In typical developer fashion, spun my wheels looking at a problem for a mistype combined with Javascript to be the cultprit. Regardless, was able to get past it and continue to work well with the api, tools, and platform as they are. The solution I had in my head won't quite work the way I was thinking it was, so I'll have to pivot and come up with another option.
