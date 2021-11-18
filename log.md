@@ -42,12 +42,12 @@ Somethings to come:
 
 -----
 
-### Day 4: November 5rd, 2021
+### Day 4: November 5th, 2021
 ##### SKIPPED
 
 -----
 
-### Day 6: November 6th, 2021
+### Day 5: November 6th, 2021
 #####
 
 **Today's Progress**: Spent most of today getting my project environment setup on a different computer. Once I got everything resolved, had to figure out where I left off and was able to clean up the GET request a little. More progress to make.
@@ -58,7 +58,7 @@ Obviously, I've skipped a few days and will have to make those up, with interest
 
 -----
 
-### Day 7: November 7th, 2021
+### Day 6: November 7th, 2021
 #####
 
 **Today's Progress**: Made some progress on tying the database to the code a bit. Not quite as much as I would have liked but its progress. Also did a first pass on a few files for cleaning up the code, comments, and structure that is there.
@@ -79,9 +79,60 @@ I actually really enjoy using comments, they help me keep organized and help me 
 
 -----
 
-### Day 8: November 8th, 2021
+### Day 7: November 8th, 2021
 #####
 
 **Today's Progress**: Decided to attempt and tackle the helixToken issue that I have been working around the past few days. Was able to get past the assumed hurdle of having to upload the files or intentionally connect to the developer rig. Was able to test out the solution of using the Twitch Front End API with the helixToken JWT. Will have to pivot after learning that said solution won't work.
 
 **Thoughts:** Today was a good day. Wasn't too stressed or thinking too actively about working on it and it kinda felt natural. In typical developer fashion, spun my wheels looking at a problem for a mistype combined with Javascript to be the cultprit. Regardless, was able to get past it and continue to work well with the api, tools, and platform as they are. The solution I had in my head won't quite work the way I was thinking it was, so I'll have to pivot and come up with another option.
+
+-----
+
+### Day 8: November 9th, 2021
+##### SKIPPED
+
+-----
+
+### Day 9: November 10th, 2021
+##### SKIPPED
+
+-----
+
+### Day 10: November 11th, 2021
+##### SKIPPED
+
+-----
+
+### Day 11: November 12th, 2021
+##### SKIPPED
+
+-----
+
+### Day 12: November 13th, 2021
+##### SKIPPED
+
+-----
+
+### Day 13: November 14th, 2021
+##### SKIPPED
+
+-----
+
+### Day 14: November 15th, 2021
+##### SKIPPED
+
+-----
+
+### Day 15: November 16th, 2021
+##### SKIPPED
+
+-----
+
+### Day 16: November 17th, 2021
+##### 
+
+**Today's Progress**: Been playing around with the MongoDB database. Last time, ran into an issue of trying to figure out the uniqueness for the stream and how we tie that to the Submission, so now switching to set the data correctly in the api and having the records created properly in the database. (minus the unique stream identifier)
+
+**Thoughts:** Took a much longer break than I intended, was seriosly tempting to just let it go but a friend asking about the status was the small push I needed to weave back into do this. I'm obviously been slacking on doing it the proper way, but this has been a good intro around getting back into the mindset and zone, so I'm not gonna complain and continue to try and stick to it.
+
+Took some time to get back up-to-speed with where I left off, which was a little off-putting, but eventually found a good starting place. I still have to figure out a proper solution to my current problem, but its par for the course. Would really like to get this out by the end of the year which will require a bit more work on my end.
