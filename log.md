@@ -136,3 +136,15 @@ I actually really enjoy using comments, they help me keep organized and help me 
 **Thoughts:** Took a much longer break than I intended, was seriosly tempting to just let it go but a friend asking about the status was the small push I needed to weave back into do this. I'm obviously been slacking on doing it the proper way, but this has been a good intro around getting back into the mindset and zone, so I'm not gonna complain and continue to try and stick to it.
 
 Took some time to get back up-to-speed with where I left off, which was a little off-putting, but eventually found a good starting place. I still have to figure out a proper solution to my current problem, but its par for the course. Would really like to get this out by the end of the year which will require a bit more work on my end.
+
+-----
+
+### Day 17: November 18th, 2021
+##### 
+
+**Today's Progress**: Was able to resolve the database issue, wasn't cache like I was thinking. The reason it wasn't working as expected makes sense, it was due to having to change the local port for the database, but I don't quite know why I was receiving the data issues that I was. Just had to update the port that the clients were attempting to connect to and everything started working as expected.
+
+Todays big issue after that resolves around a core/fundamental design issue with how the app/tool is supposed to work and be used. Have to figure out a plan working around some unique-ness issues and some viewer and streamer use-cases that I don't quite like.
+
+**Thoughts:** Feels good to remove a roadblock and have another one put in place. lol. The really challenging issue now is dealing with some core design paired with some implementation challenges. I'm struggling to come up with a proper solution and since its paired with some limitation on the platform it makes it all the more harder to deal with, feels like a huge weight. The most difficult part of it is wanting to commit and complete an app, but the initial idea seems more and more difficult and useless as time goes on. Will keep on chugging I guess...
+
